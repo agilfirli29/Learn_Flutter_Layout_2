@@ -8,7 +8,7 @@ To start working with this project locally, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
    ```sh
-   https://github.com/agilfirli29/Learn_Flutter_Layout_2.git
+   git clone https://github.com/agilfirli29/Learn_Flutter_Layout_2.git
    ```
 2. Navigate to the project directory:
 
